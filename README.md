@@ -1,5 +1,6 @@
 # Generic Top Down Shooter
 - made to learn the fundementals of game development through the Unity game engine and to develop proficiency in C#. Comprises of a character that is able to shoot pellets and place blocks to evade oncoming hoards of enemies.
+- All assests excluding sound effects were made by me.
 
 <hr>
 
